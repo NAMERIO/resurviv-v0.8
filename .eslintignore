@@ -1,0 +1,11 @@
+reference/
+
+# Compiled source
+dist/
+node_modules/
+
+
+# big files
+shared/defs/mapObjectDefs.js
+client/src/fullResAtlasDefs.js
+client/src/lowResAtlasDefs.js
